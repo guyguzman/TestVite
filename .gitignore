@@ -29,7 +29,7 @@ dist-ssr
 *.png
 *.gif
 *.bmp
-*.svg
+# *.svg
 *.webp
 *.tiff
 *.ico
